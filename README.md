@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-KoBART with Colab
 
 - 쉽게 코랩으로, 사이트 구현까지!
 - Easy Colab, even site implementation!
